@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdbool.h>
 
 struct gaussian_point
 {
@@ -40,11 +41,18 @@ int parse_double(char *str, double *out)
     return 0;
 }
 
+bool calc_cond(int i)
+{
+    double sqr = sqrt(i);
+    double sqr_m_1 = sqrt(i - 1);
+    return sqr < sqr_m_1;
+}
+
 int main(void)
 {
     for (int i = 1; i < 4000000; i++)
     {
-        if (sqrt(i) < sqrt(i - 1))
+        if (calc_cond(i))
         {
             printf("%d\n", i);
         }

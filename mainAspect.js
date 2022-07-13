@@ -1,19 +1,10 @@
-laraImport("lara.benchmark.NasBenchmarkSet");
-laraImport("lara.code.Timer");
 laraImport("weaver.Query");
-laraImport("clava.opt.Inlining");
+laraImport("clava.code.Inliner");
+laraImport("clava.code.StatementDecomposer");
+laraImport("clava.opt.NormalizeToSubset");
 
-const nasSet = new NasBenchmarkSet();
-nasSet.setBenchmarks("EP");
+const main = Query.search("function", "main").get()[0];
 
-for (const benchmark of nasSet) {
-  Inlining();
-  // const timer = new Timer();
+NormalizeToSubset();
 
-  println(Query.root().code);
-  //benchmark
-
-  benchmark.getCMaker().addFlags("-O0");
-
-  benchmark.execute();
-}
+new Inliner(new StatementDecomposer()).inlineFunctionTree(main);

@@ -4,7 +4,9 @@
     <entry>
       <string>workspace</string>
       <FileList>
-        <fileList/>
+        <fileList>
+          <file>euclidian_space_neighbors.c</file>
+        </fileList>
       </FileList>
     </entry>
     <entry>
