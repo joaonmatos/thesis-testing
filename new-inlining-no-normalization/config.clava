@@ -5,7 +5,9 @@
       <string>workspace</string>
       <FileList>
         <fileList>
-          <file>euclidian_space_neighbors.c</file>
+          <file>../test-programs/vec_multiple_returns.c</file>
+          <file>../test-programs/matrix_mult.c</file>
+          <file>../test-programs/k_means.c</file>
         </fileList>
       </FileList>
     </entry>
@@ -21,7 +23,7 @@
     </entry>
     <entry>
       <string>output</string>
-      <file>woven-code</file>
+      <file></file>
     </entry>
     <entry>
       <string>parsingNumThreads</string>
@@ -70,9 +72,7 @@
     <entry>
       <string>external_dependencies</string>
       <StringList>
-        <stringList>
-          <string>https://github.com/specs-feup/clava-benchmarks.git?folder=NAS</string>
-        </stringList>
+        <stringList/>
       </StringList>
     </entry>
     <entry>
@@ -88,7 +88,7 @@
     </entry>
     <entry>
       <string>C/C++ Standard</string>
-      <pt.up.fe.specs.clava.language.Standard>CXX11</pt.up.fe.specs.clava.language.Standard>
+      <pt.up.fe.specs.clava.language.Standard>C17</pt.up.fe.specs.clava.language.Standard>
     </entry>
     <entry>
       <string>workspace_extra</string>
@@ -172,7 +172,7 @@
     </entry>
     <entry>
       <string>aspect</string>
-      <file>mainAspect.js</file>
+      <file>aspect.js</file>
     </entry>
     <entry>
       <string>ignoreHeaderIncludes</string>
