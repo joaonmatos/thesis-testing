@@ -12,11 +12,11 @@ typedef struct matrix
 matrix *matrix_new(size_t sqrt_n)
 {
     size_t side = sqrt_n * sqrt_n;
-    double **rows = (double **)calloc(side, sizeof(double *));
+    double **rows = calloc(side, sizeof(double *));
 
     for (size_t row = 0; row < side; row++)
     {
-        double *r = (double *)calloc(side, sizeof(double));
+        double *r = calloc(side, sizeof(double));
         rows[row] = r;
     }
 
@@ -67,8 +67,6 @@ void matrix_mult(matrix *a, matrix *b, matrix *out)
 
 void matrix_fill_rand(matrix *m)
 {
-    srand(time(NULL));
-
     for (size_t i = 0; i < m->side; i++)
     {
         for (size_t j = 0; j < m->side; j++)
@@ -92,9 +90,11 @@ double matrix_trace(matrix *m)
 
 int main(void)
 {
-    matrix *m1 = matrix_new(8);
-    matrix *m2 = matrix_new(8);
-    matrix *out = matrix_new(8);
+    srand(42);
+
+    matrix *m1 = matrix_new(10);
+    matrix *m2 = matrix_new(10);
+    matrix *out = matrix_new(10);
 
     matrix_fill_rand(m1);
     matrix_fill_rand(m2);
@@ -102,17 +102,9 @@ int main(void)
     clock_t start = clock();
     matrix_mult(m1, m2, out);
     clock_t end = clock();
-    printf("matrix mult took %ld clocks to complete\n", end - start);
-
-    start = clock();
+    printf("%f\n", (end - start) / (double)(CLOCKS_PER_SEC / 1000));
     double trace = matrix_trace(out);
-    end = clock();
-    printf("matrix trace took %ld clocks to complete\n", end - start);
+    fprintf(stderr, "%f\n", trace);
 
-    matrix_destroy(m1);
-    matrix_destroy(m2);
-    matrix_destroy(out);
-
-    printf("trace: %f\n", trace);
     return EXIT_SUCCESS;
 }

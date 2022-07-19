@@ -31,9 +31,9 @@ size_t slice_size(int *slice, size_t size)
 
 int main()
 {
-    srand(time(NULL));
+    srand(42);
 
-    size_t size = 55000;
+    size_t size = 1000000;
     int *slice = slice_new(size);
     slice_rand_fill(slice, size);
 
@@ -47,7 +47,8 @@ int main()
         acc += (unsigned int)*elem;
     }
     clock_t end = clock();
+    fprintf(stderr, "%u\n", acc);
 
-    printf("Added %u in %f secs\n", acc, (double)(end - start) / CLOCKS_PER_SEC);
+    printf("%f\n", (end - start) / (double)(CLOCKS_PER_SEC / 1000));
     return EXIT_SUCCESS;
 }

@@ -36,12 +36,28 @@ void calculate_centroid_means(size_t n_clusters, size_t gen_factor, float *centr
 int main()
 {
     size_t n_clusters = 8;
-    float cluster_seed_xs[] = {3.0, -2.1, 12.8, 0.3, -7.5, 16.2, -13.1, -0.7};
-    float cluster_seed_ys[] = {3.0, 2.1, -12.8, -0.3, 7.5, 16.2, -13.1, -0.7};
+    float cluster_seed_xs[8];
+    cluster_seed_xs[0] = 3.0;
+    cluster_seed_xs[1] = -2.1;
+    cluster_seed_xs[2] = 12.8;
+    cluster_seed_xs[3] = 0.3;
+    cluster_seed_xs[4] = -7.5;
+    cluster_seed_xs[5] = 16.2;
+    cluster_seed_xs[6] = -13.1;
+    cluster_seed_xs[7] = -0.7;
+    float cluster_seed_ys[8];
+    cluster_seed_ys[0] = 3.0;
+    cluster_seed_ys[1] = 2.1;
+    cluster_seed_ys[2] = -12.8;
+    cluster_seed_ys[3] = -0.3;
+    cluster_seed_ys[4] = 7.5;
+    cluster_seed_ys[5] = 16.2;
+    cluster_seed_ys[6] = -13.1;
+    cluster_seed_ys[7] = -0.7;
 
     size_t allowed_switches = 2;
-    size_t gen_factor = 100;
-    int dist_factor = 150;
+    size_t gen_factor = 200;
+    int dist_factor = 100;
 
     srand(42);
 
@@ -73,9 +89,9 @@ int main()
         classes[i] = class;
     }
 
-    float centroid_xs[n_clusters];
-    float centroid_ys[n_clusters];
-    size_t centroid_counts[n_clusters];
+    float centroid_xs[8];
+    float centroid_ys[8];
+    size_t centroid_counts[8];
 
     size_t switched_observations = 0;
     int iterations = 0;
@@ -117,5 +133,6 @@ int main()
         }
     } while (switched_observations > allowed_switches);
     end = clock();
-    printf("k-means took %d iterations in %fs\n", iterations, (end - start) / (double)CLOCKS_PER_SEC);
+    fprintf(stderr, "%d\n", iterations);
+    printf("%f\n", (end - start) / (double)(CLOCKS_PER_SEC / 1000));
 }

@@ -1,4 +1,3 @@
-laraImport("clava.code.Inliner");
 laraImport("weaver.Query");
 laraImport("clava.opt.NormalizeToSubset");
 laraImport("clava.opt.PrepareForInlining");
@@ -21,9 +20,14 @@ for (const call of Query.search("call")) {
       `Trying to inline call '${call.code}' at location ${call.location}`
     );
     PrepareForInlining(call.function);
-    call.inline();
-    println("Inlined successfully\n");
-    calls_inlined += 1;
+    const res = call.inline();
+    if (res !== false) {
+      println("Inlined successfully\n");
+      calls_inlined += 1;
+    } else {
+      println("Inlining failed\n");
+      calls_inlining_fails += 1;
+    }
   } catch (e) {
     println(`Inlining failed: ${e.message}\n`);
     calls_inlining_fails += 1;

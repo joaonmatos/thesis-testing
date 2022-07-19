@@ -1,28 +1,216 @@
 {
   "experimentA": {
     "new-inlining-no-normalization": {
-      "calls_total": 52,
-      "calls_no_definition": 34,
-      "calls_inlined": 9,
+      "calls_total": 46,
+      "calls_no_definition": 31,
+      "calls_inlined": 6,
       "calls_inlining_fails": 9
     },
     "new-inlining-normalization": {
-      "calls_total": 56,
-      "calls_no_definition": 34,
-      "calls_inlined": 22,
+      "calls_total": 50,
+      "calls_no_definition": 31,
+      "calls_inlined": 19,
       "calls_inlining_fails": 0
     },
     "old-inlining-no-normalization": {
-      "calls_total": 52,
-      "calls_no_definition": 34,
-      "calls_inlined": 3, // only could inline square_distance in k_means.c
-      "calls_inlining_fails": 15
+      "calls_total": 46,
+      "calls_no_definition": 31,
+      "calls_inlined": 2,
+      "calls_inlining_fails": 13
     },
     "old-inlining-normalization": {
-      "calls_total": 56,
-      "calls_no_definition": 34,
-      "calls_inlined": 6,
-      "calls_inlining_fails": 16
+      "calls_total": 50,
+      "calls_no_definition": 31,
+      "calls_inlined": 6, // off the original, 3 duplicated calls, which include the 2 that worked (2 x square_distance) and 1 that did not (slice_size)
+      "calls_inlining_fails": 13
+    }
+  },
+  "experimentB": {
+    "k-means": {
+      "inline": {
+        "O0": {
+          "gcc": {
+            "avg": 3.0425000000000004,
+            "stdDev": 0.4762499999999998
+          },
+          "clang": {
+            "avg": 3.16575,
+            "stdDev": 0.16843749999999996
+          },
+          "ccomp": {
+            "avg": 1.0406250000000001,
+            "stdDev": 0.07603125000000004
+          }
+        },
+        "O2": {
+          "gcc": {
+            "avg": 0.894625,
+            "stdDev": 0.08631250000000004
+          },
+          "clang": {
+            "avg": 0.598125,
+            "stdDev": 0.001968750000000033
+          },
+          "ccomp": {
+            "avg": 1.207125,
+            "stdDev": 0.11281250000000002
+          }
+        }
+      },
+      "no-inline": {
+        "O0": {
+          "gcc": {
+            "avg": 3.4515000000000002,
+            "stdDev": 0.16637499999999983
+          },
+          "clang": {
+            "avg": 3.2471250000000005,
+            "stdDev": 0.17078124999999966
+          },
+          "ccomp": {
+            "avg": 1.305125,
+            "stdDev": 0.0004375000000000906
+          }
+        },
+        "O2": {
+          "gcc": {
+            "avg": 0.9473750000000001,
+            "stdDev": 0.03515625000000003
+          },
+          "clang": {
+            "avg": 0.6271249999999999,
+            "stdDev": 0.03918749999999997
+          },
+          "ccomp": {
+            "avg": 1.3651250000000001,
+            "stdDev": 0.0022187500000001026
+          }
+        }
+      }
+    },
+    "matrix-mult": {
+      "inline": {
+        "O0": {
+          "gcc": {
+            "avg": 5.263875,
+            "stdDev": 0.4190624999999998
+          },
+          "clang": {
+            "avg": 4.907125,
+            "stdDev": 0.5707812500000002
+          },
+          "ccomp": {
+            "avg": 1.80825,
+            "stdDev": 0.17087500000000005
+          }
+        },
+        "O2": {
+          "gcc": {
+            "avg": 1.1535,
+            "stdDev": 0.172625
+          },
+          "clang": {
+            "avg": 0.94025,
+            "stdDev": 0.13375
+          },
+          "ccomp": {
+            "avg": 1.9322499999999998,
+            "stdDev": 0.12387499999999987
+          }
+        }
+      },
+      "no-inline": {
+        "O0": {
+          "gcc": {
+            "avg": 4.90725,
+            "stdDev": 0.4374375000000001
+          },
+          "clang": {
+            "avg": 5.2372499999999995,
+            "stdDev": 0.24287499999999973
+          },
+          "ccomp": {
+            "avg": 1.8791250000000002,
+            "stdDev": 0.07471875000000006
+          }
+        },
+        "O2": {
+          "gcc": {
+            "avg": 1.159375,
+            "stdDev": 0.14109374999999993
+          },
+          "clang": {
+            "avg": 0.9636249999999998,
+            "stdDev": 0.03768749999999997
+          },
+          "ccomp": {
+            "avg": 1.6705,
+            "stdDev": 0.22675000000000003
+          }
+        }
+      }
+    },
+    "vec-multiple-returns": {
+      "inline": {
+        "O0": {
+          "gcc": {
+            "avg": 3.484875,
+            "stdDev": 0.476375
+          },
+          "clang": {
+            "avg": 3.5017499999999995,
+            "stdDev": 0.5365
+          },
+          "ccomp": {
+            "avg": 1.4845000000000002,
+            "stdDev": 0.37762499999999993
+          }
+        },
+        "O2": {
+          "gcc": {
+            "avg": 0.46925,
+            "stdDev": 0.081875
+          },
+          "clang": {
+            "avg": 0.077375,
+            "stdDev": 0.02028125
+          },
+          "ccomp": {
+            "avg": 0.69775,
+            "stdDev": 0.20318749999999997
+          }
+        }
+      },
+      "no-inline": {
+        "O0": {
+          "gcc": {
+            "avg": 3.3902499999999995,
+            "stdDev": 0.50325
+          },
+          "clang": {
+            "avg": 4.0646249999999995,
+            "stdDev": 0.483875
+          },
+          "ccomp": {
+            "avg": 3.7785,
+            "stdDev": 0.428625
+          }
+        },
+        "O2": {
+          "gcc": {
+            "avg": 0.46262499999999995,
+            "stdDev": 0.139375
+          },
+          "clang": {
+            "avg": 0.08424999999999999,
+            "stdDev": 0.020687500000000004
+          },
+          "ccomp": {
+            "avg": 3.091625,
+            "stdDev": 0.6060312499999999
+          }
+        }
+      }
     }
   }
 }
