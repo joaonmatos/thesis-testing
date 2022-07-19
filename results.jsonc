@@ -1,26 +1,28 @@
 {
-  "new-inlining-no-normalization": {
-    "calls_total": 52,
-    "calls_no_definition": 34,
-    "calls_inlined": 9,
-    "calls_inlining_fails": 9
-  },
-  "new-inlining-normalization": {
-    "calls_total": 56,
-    "calls_no_definition": 34,
-    "calls_inlined": 22,
-    "calls_inlining_fails": 0
-  },
-  "old-inlining-no-normalization": {
-    "calls_total": 52,
-    "calls_no_definition": 34,
-    "calls_inlined": 3, // only could inline square_distance in k_means.c
-    "calls_inlining_fails": 15
-  },
-  "old-inlining-normalization": {
-    "calls_total": 56,
-    "calls_no_definition": 34,
-    "calls_inlined": 6,
-    "calls_inlining_fails": 16
+  "experimentA": {
+    "new-inlining-no-normalization": {
+      "calls_total": 52,
+      "calls_no_definition": 34,
+      "calls_inlined": 9,
+      "calls_inlining_fails": 9
+    },
+    "new-inlining-normalization": {
+      "calls_total": 56,
+      "calls_no_definition": 34,
+      "calls_inlined": 22,
+      "calls_inlining_fails": 0
+    },
+    "old-inlining-no-normalization": {
+      "calls_total": 52,
+      "calls_no_definition": 34,
+      "calls_inlined": 3, // only could inline square_distance in k_means.c
+      "calls_inlining_fails": 15
+    },
+    "old-inlining-normalization": {
+      "calls_total": 56,
+      "calls_no_definition": 34,
+      "calls_inlined": 6,
+      "calls_inlining_fails": 16
+    }
   }
 }
