@@ -5,9 +5,9 @@
       <string>workspace</string>
       <FileList>
         <fileList>
-          <file>../test-programs/vec_multiple_returns.c</file>
-          <file>../test-programs/matrix_mult.c</file>
-          <file>../test-programs/k_means.c</file>
+          <file>../../test-programs/vec_multiple_returns.c</file>
+          <file>../../test-programs/matrix_mult.c</file>
+          <file>../../test-programs/k_means.c</file>
         </fileList>
       </FileList>
     </entry>
