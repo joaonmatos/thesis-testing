@@ -33,7 +33,7 @@ int main()
 {
     srand(42);
 
-    size_t size = 1000000;
+    size_t size = 1000000000;
     int *slice = slice_new(size);
     slice_rand_fill(slice, size);
 
@@ -45,6 +45,14 @@ int main()
         int *elem;
         elem = slice_ref(slice, size, i);
         acc += (unsigned int)*elem;
+        acc *= (unsigned int)*elem;
+        acc += (unsigned int)*elem;
+        acc *= (unsigned int)*elem;
+        acc *= acc;
+        acc += (unsigned int)*elem;
+        acc *= (unsigned int)*elem;
+        acc += (unsigned int)*elem;
+        acc *= (unsigned int)*elem;
     }
     clock_t end = clock();
     fprintf(stderr, "%u\n", acc);

@@ -92,9 +92,9 @@ int main(void)
 {
     srand(42);
 
-    matrix *m1 = matrix_new(10);
-    matrix *m2 = matrix_new(10);
-    matrix *out = matrix_new(10);
+    matrix *m1 = matrix_new(35);
+    matrix *m2 = matrix_new(35);
+    matrix *out = matrix_new(35);
 
     matrix_fill_rand(m1);
     matrix_fill_rand(m2);

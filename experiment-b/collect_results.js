@@ -68,3 +68,20 @@ for (const program of programs) {
 }
 
 console.log(JSON.stringify(out, undefined, 2));
+
+console.log();
+
+console.log(
+  "program, inlining, optimization level, compiler, average runtime (ms), standard deviation (ms)"
+);
+for (const p of programs) {
+  for (const i of inlining) {
+    for (const o of optLevels) {
+      for (const c of compilers) {
+        console.log(
+          `${p}, ${i}, ${o}, ${c}, ${out[p][i][o][c].avg}, ${out[p][i][o][c].stdDev}`
+        );
+      }
+    }
+  }
+}

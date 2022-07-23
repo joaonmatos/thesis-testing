@@ -56,8 +56,8 @@ int main()
     cluster_seed_ys[7] = -0.7;
 
     size_t allowed_switches = 2;
-    size_t gen_factor = 200;
-    int dist_factor = 100;
+    size_t gen_factor = 150000;
+    int dist_factor = 300;
 
     srand(42);
 
