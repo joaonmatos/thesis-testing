@@ -1,0 +1,2002 @@
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Found 0 source files
+[ClavaMetrics] Code to AST: 0ms
+[ClavaMetrics] AST Processing: 5ms
+[ClavaMetrics] Current memory used (Java):37 MiB
+--- AST parsing report ---
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Adding folder '/tmp/tmp_joaonmatos/specs_git_repos/clava-benchmarks/NAS' as LARA include
+Normalize + AutoPar
+Parsing NAS-BT-W...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_BT.c' (1/1)
+[ClavaMetrics] Code to AST: 931ms
+[ClavaMetrics] AST Processing: 315ms
+[ClavaMetrics] Current memory used (Java):98 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_BT.c' (1/1)
+[ClavaMetrics] Code to AST: 1013ms
+[ClavaMetrics] AST Processing: 311ms
+[ClavaMetrics] Current memory used (Java):158 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_BT.c' (1/1)
+[ClavaMetrics] Code to AST: 882ms
+[ClavaMetrics] AST Processing: 297ms
+[ClavaMetrics] Current memory used (Java):177 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 4,
+    "excluded_has_unsafe_calls": 3
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "main",
+      "verify",
+      "print_results",
+      "wtime"
+    ],
+    "excluded_has_unsafe_calls": [
+      "elapsed_time",
+      "timer_start",
+      "timer_stop"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "main",
+    "verify",
+    "print_results",
+    "wtime",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop"
+  ],
+  "inductionVariableReplacements": 1841
+}
+Compiling NAS-BT-W...
+Changes in file 'laraBenchmarks/NAS-BT-W/NAS_BT.c'
+Executing NAS-BT-W...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - BT Benchmark
+
+ Size:   24x  24x  24
+ Iterations:  200    dt:   0.000800
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Verification being performed for class W
+ accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1 1.1255904093440E+02 1.1255904093440E+02 3.3583151765186E-14
+           2 1.1800075957308E+01 1.1800075957310E+01 2.0894639170184E-13
+           3 2.7103297678457E+01 2.7103297678460E+01 1.0289818866118E-13
+           4 2.4691749376689E+01 2.4691749376690E+01 2.7337698462521E-14
+           5 2.6384278743168E+02 2.6384278743170E+02 8.6824044060085E-14
+ Comparison of RMS-norms of solution error
+           1 4.4196557360080E+00 4.4196557360080E+00 9.0432448303329E-15
+           2 4.6385312600017E-01 4.6385312600020E-01 6.0435361541086E-14
+           3 1.0115517499669E+00 1.0115517499670E+00 1.3214435363216E-13
+           4 9.2358787299439E-01 9.2358787299440E-01 1.4545122332984E-14
+           5 1.0180458377175E+01 1.0180458377180E+01 4.5523637760592E-13
+ Verification Successful
+
+
+ BT Benchmark Completed.
+ Class           =                        W
+ Size            =             24x  24x  24
+ Iterations      =                      200
+ Time in seconds =                     5.41
+ Mop/s total     =                  1425.71
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-BT-A...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_BT.c' (1/1)
+[ClavaMetrics] Code to AST: 872ms
+[ClavaMetrics] AST Processing: 291ms
+[ClavaMetrics] Current memory used (Java):158 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_BT.c' (1/1)
+[ClavaMetrics] Code to AST: 886ms
+[ClavaMetrics] AST Processing: 271ms
+[ClavaMetrics] Current memory used (Java):215 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_BT.c' (1/1)
+[ClavaMetrics] Code to AST: 1056ms
+[ClavaMetrics] AST Processing: 284ms
+[ClavaMetrics] Current memory used (Java):202 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 4,
+    "excluded_has_unsafe_calls": 3
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "main",
+      "verify",
+      "print_results",
+      "wtime"
+    ],
+    "excluded_has_unsafe_calls": [
+      "elapsed_time",
+      "timer_start",
+      "timer_stop"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "main",
+    "verify",
+    "print_results",
+    "wtime",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop"
+  ],
+  "inductionVariableReplacements": 1841
+}
+Compiling NAS-BT-A...
+Changes in file 'laraBenchmarks/NAS-BT-A/NAS_BT.c'
+Executing NAS-BT-A...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - BT Benchmark
+
+ Size:   64x  64x  64
+ Iterations:  200    dt:   0.000800
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Verification being performed for class A
+ accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1 1.0806346714637E+02 1.0806346714637E+02 7.4957683679475E-15
+           2 1.1319730901221E+01 1.1319730901221E+01 4.7077713814080E-15
+           3 2.5974354511582E+01 2.5974354511582E+01 5.7446653560951E-15
+           4 2.3665622544679E+01 2.3665622544679E+01 1.1409217698756E-14
+           5 2.5278963211749E+02 2.5278963211748E+02 1.1917819470629E-14
+ Comparison of RMS-norms of solution error
+           1 4.2348416040525E+00 4.2348416040525E+00 2.0973120195338E-16
+           2 4.4390282496996E-01 4.4390282496996E-01 0.0000000000000E+00
+           3 9.6692480136346E-01 9.6692480136346E-01 2.2963999331895E-16
+           4 8.8302063039765E-01 8.8302063039765E-01 0.0000000000000E+00
+           5 9.7379901770829E+00 9.7379901770829E+00 1.8241513978733E-16
+ Verification Successful
+
+
+ BT Benchmark Completed.
+ Class           =                        A
+ Size            =             64x  64x  64
+ Iterations      =                      200
+ Time in seconds =                   118.31
+ Mop/s total     =                  1422.44
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-BT-B...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_BT.c' (1/1)
+[ClavaMetrics] Code to AST: 976ms
+[ClavaMetrics] AST Processing: 271ms
+[ClavaMetrics] Current memory used (Java):155 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_BT.c' (1/1)
+[ClavaMetrics] Code to AST: 1056ms
+[ClavaMetrics] AST Processing: 306ms
+[ClavaMetrics] Current memory used (Java):215 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_BT.c' (1/1)
+[ClavaMetrics] Code to AST: 986ms
+[ClavaMetrics] AST Processing: 267ms
+[ClavaMetrics] Current memory used (Java):205 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 4,
+    "excluded_has_unsafe_calls": 3
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "main",
+      "verify",
+      "print_results",
+      "wtime"
+    ],
+    "excluded_has_unsafe_calls": [
+      "elapsed_time",
+      "timer_start",
+      "timer_stop"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "main",
+    "verify",
+    "print_results",
+    "wtime",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop"
+  ],
+  "inductionVariableReplacements": 1841
+}
+Compiling NAS-BT-B...
+Changes in file 'laraBenchmarks/NAS-BT-B/NAS_BT.c'
+Executing NAS-BT-B...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - BT Benchmark
+
+ Size:  102x 102x 102
+ Iterations:  200    dt:   0.000300
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Verification being performed for class B
+ accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1 1.4233597229287E+03 1.4233597229287E+03 7.3482401545462E-15
+           2 9.9330522590151E+01 9.9330522590150E+01 4.8642556962122E-15
+           3 3.5646025644535E+02 3.5646025644535E+02 3.0298608016653E-15
+           4 3.2485447959083E+02 3.2485447959084E+02 2.5547251692915E-14
+           5 3.2707541254660E+03 3.2707541254659E+03 7.6468922270923E-15
+ Comparison of RMS-norms of solution error
+           1 5.2969847140937E+01 5.2969847140937E+01 4.0242294858973E-16
+           2 4.4632896115671E+00 4.4632896115671E+00 1.9899636747710E-16
+           3 1.3122573342210E+01 1.3122573342210E+01 4.0609950344566E-16
+           4 1.2006925323559E+01 1.2006925323559E+01 2.9588871281057E-16
+           5 1.2459576151036E+02 1.2459576151036E+02 2.2811136659766E-16
+ Verification Successful
+
+
+ BT Benchmark Completed.
+ Class           =                        B
+ Size            =            102x 102x 102
+ Iterations      =                      200
+ Time in seconds =                   517.56
+ Mop/s total     =                  1356.71
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-CG-W...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_CG.c' (1/1)
+[ClavaMetrics] Code to AST: 171ms
+[ClavaMetrics] AST Processing: 26ms
+[ClavaMetrics] Current memory used (Java):117 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_CG.c' (1/1)
+[ClavaMetrics] Code to AST: 139ms
+[ClavaMetrics] AST Processing: 39ms
+[ClavaMetrics] Current memory used (Java):123 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_CG.c' (1/1)
+[ClavaMetrics] Code to AST: 133ms
+[ClavaMetrics] AST Processing: 30ms
+[ClavaMetrics] Current memory used (Java):99 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 4,
+    "excluded_has_unsafe_calls": 4
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "main",
+      "sparse",
+      "wtime",
+      "print_results"
+    ],
+    "excluded_has_unsafe_calls": [
+      "makea",
+      "elapsed_time",
+      "timer_start",
+      "timer_stop"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "main",
+    "sparse",
+    "wtime",
+    "print_results",
+    "makea",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop"
+  ],
+  "inductionVariableReplacements": 43
+}
+Compiling NAS-CG-W...
+Changes in file 'laraBenchmarks/NAS-CG-W/NAS_CG.c'
+Executing NAS-CG-W...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - CG Benchmark
+
+ Size:        7000
+ Iterations:    15
+
+ Initialization time =           0.190 seconds
+
+   iteration           ||r||                 zeta
+        1       1.70697611418656E-13    11.9997003727381
+        2       2.22713899976072E-15    10.3457275664058
+        3       2.22886522054919E-15    10.3617880137963
+        4       2.18191616096583E-15    10.3625416284965
+        5       2.21606602720339E-15    10.3625905854467
+        6       2.21295487274385E-15    10.3625946467087
+        7       2.18343957376555E-15    10.3625950398342
+        8       2.16367640664198E-15    10.3625950817269
+        9       2.07896002568163E-15    10.3625950864815
+       10       2.13896993283654E-15    10.3625950870452
+       11       2.15331820270282E-15    10.3625950871141
+       12       2.14900632449720E-15    10.3625950871227
+       13       2.07774177253323E-15    10.3625950871238
+       14       1.99747758399189E-15    10.3625950871240
+       15       2.00408915648263E-15    10.3625950871240
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ Zeta is     1.0362595087124E+01
+ Error is    8.5710038096898E-16
+
+
+ CG Benchmark Completed.
+ Class           =                        W
+ Size            =                     7000
+ Iterations      =                       15
+ Time in seconds =                     0.59
+ Mop/s total     =                   714.56
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-CG-A...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_CG.c' (1/1)
+[ClavaMetrics] Code to AST: 112ms
+[ClavaMetrics] AST Processing: 24ms
+[ClavaMetrics] Current memory used (Java):69 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_CG.c' (1/1)
+[ClavaMetrics] Code to AST: 138ms
+[ClavaMetrics] AST Processing: 37ms
+[ClavaMetrics] Current memory used (Java):76 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_CG.c' (1/1)
+[ClavaMetrics] Code to AST: 138ms
+[ClavaMetrics] AST Processing: 29ms
+[ClavaMetrics] Current memory used (Java):76 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 4,
+    "excluded_has_unsafe_calls": 4
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "main",
+      "sparse",
+      "wtime",
+      "print_results"
+    ],
+    "excluded_has_unsafe_calls": [
+      "makea",
+      "elapsed_time",
+      "timer_start",
+      "timer_stop"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "main",
+    "sparse",
+    "wtime",
+    "print_results",
+    "makea",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop"
+  ],
+  "inductionVariableReplacements": 43
+}
+Compiling NAS-CG-A...
+Changes in file 'laraBenchmarks/NAS-CG-A/NAS_CG.c'
+Executing NAS-CG-A...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - CG Benchmark
+
+ Size:       14000
+ Iterations:    15
+
+ Initialization time =           0.994 seconds
+
+   iteration           ||r||                 zeta
+        1       2.60650812147631E-13    19.9997581277040
+        2       2.57531877367169E-15    17.1140495745506
+        3       2.59348789075185E-15    17.1296668946143
+        4       2.56262926848262E-15    17.1302113581193
+        5       2.51106135247005E-15    17.1302338856353
+        6       2.55819375820883E-15    17.1302349879482
+        7       2.54564770410681E-15    17.1302350498916
+        8       2.44940683285382E-15    17.1302350537510
+        9       2.48852359037289E-15    17.1302350540101
+       10       2.47715076108563E-15    17.1302350540284
+       11       2.49284410170029E-15    17.1302350540298
+       12       2.44437060612294E-15    17.1302350540299
+       13       2.47093619226119E-15    17.1302350540299
+       14       2.43816304501123E-15    17.1302350540299
+       15       2.42966732234484E-15    17.1302350540299
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ Zeta is     1.7130235054030E+01
+ Error is    5.1226400332279E-14
+
+
+ CG Benchmark Completed.
+ Class           =                        A
+ Size            =                    14000
+ Iterations      =                       15
+ Time in seconds =                     2.04
+ Mop/s total     =                   732.46
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-CG-B...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_CG.c' (1/1)
+[ClavaMetrics] Code to AST: 172ms
+[ClavaMetrics] AST Processing: 25ms
+[ClavaMetrics] Current memory used (Java):70 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_CG.c' (1/1)
+[ClavaMetrics] Code to AST: 196ms
+[ClavaMetrics] AST Processing: 30ms
+[ClavaMetrics] Current memory used (Java):77 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_CG.c' (1/1)
+[ClavaMetrics] Code to AST: 142ms
+[ClavaMetrics] AST Processing: 39ms
+[ClavaMetrics] Current memory used (Java):76 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 4,
+    "excluded_has_unsafe_calls": 4
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "main",
+      "sparse",
+      "wtime",
+      "print_results"
+    ],
+    "excluded_has_unsafe_calls": [
+      "makea",
+      "elapsed_time",
+      "timer_start",
+      "timer_stop"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "main",
+    "sparse",
+    "wtime",
+    "print_results",
+    "makea",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop"
+  ],
+  "inductionVariableReplacements": 43
+}
+Compiling NAS-CG-B...
+Changes in file 'laraBenchmarks/NAS-CG-B/NAS_CG.c'
+Executing NAS-CG-B...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - CG Benchmark
+
+ Size:       75000
+ Iterations:    75
+
+ Initialization time =           9.566 seconds
+
+   iteration           ||r||                 zeta
+        1       2.27623230253657E-13    59.9994751578754
+        2       8.44559392893216E-16    21.7627846142536
+        3       8.64511022632338E-16    22.2876617043224
+        4       8.61697722482409E-16    22.5230738188346
+        5       8.71222095709208E-16    22.6275390653892
+        6       8.71977185255567E-16    22.6740259189533
+        7       8.73832261918524E-16    22.6949056826251
+        8       8.87870239801501E-16    22.7044023166872
+        9       8.83216527363961E-16    22.7087834345620
+       10       8.80909464617773E-16    22.7108351397177
+       11       8.80803816383157E-16    22.7118107121341
+       12       8.84631507363274E-16    22.7122816240971
+       13       8.84386307708107E-16    22.7125122663242
+       14       8.85738245256241E-16    22.7126268007594
+       15       8.69465189590021E-16    22.7126844161819
+       16       8.80464475795608E-16    22.7127137461755
+       17       8.79208229388488E-16    22.7127288402000
+       18       8.84495944057552E-16    22.7127366848296
+       19       8.87459020956502E-16    22.7127407981217
+       20       8.78738608788050E-16    22.7127429721364
+       21       8.79063996233035E-16    22.7127441294025
+       22       8.77561970738108E-16    22.7127447493901
+       23       8.73438042797631E-16    22.7127450834533
+       24       8.78562496292348E-16    22.7127452643881
+       25       8.75015123991464E-16    22.7127453628451
+       26       8.81271487788102E-16    22.7127454166517
+       27       8.72205152729482E-16    22.7127454461696
+       28       8.78141674395662E-16    22.7127454624211
+       29       8.88528576053352E-16    22.7127454713974
+       30       8.79144959398065E-16    22.7127454763703
+       31       8.78591890267517E-16    22.7127454791343
+       32       8.85325894647993E-16    22.7127454806740
+       33       8.70066182336828E-16    22.7127454815315
+       34       8.71454650086712E-16    22.7127454820131
+       35       8.73438751458077E-16    22.7127454822840
+       36       8.73176084610621E-16    22.7127454824348
+       37       8.74014063008852E-16    22.7127454825202
+       38       8.70732107664715E-16    22.7127454825684
+       39       8.75913366163154E-16    22.7127454825966
+       40       8.72533505015524E-16    22.7127454826116
+       41       8.74242759896121E-16    22.7127454826202
+       42       8.72798302131147E-16    22.7127454826253
+       43       8.69544222399476E-16    22.7127454826277
+       44       8.72412853147203E-16    22.7127454826297
+       45       8.70832361421081E-16    22.7127454826310
+       46       8.65100411049732E-16    22.7127454826310
+       47       8.71121215477551E-16    22.7127454826314
+       48       8.68659902454702E-16    22.7127454826317
+       49       8.71050899841891E-16    22.7127454826309
+       50       8.68033381747093E-16    22.7127454826322
+       51       8.70509439009337E-16    22.7127454826324
+       52       8.69970107944567E-16    22.7127454826313
+       53       8.70427229060342E-16    22.7127454826315
+       54       8.72820552427826E-16    22.7127454826309
+       55       8.67261407909339E-16    22.7127454826315
+       56       8.64712529017114E-16    22.7127454826316
+       57       8.70593212517842E-16    22.7127454826318
+       58       8.63832172567102E-16    22.7127454826314
+       59       8.63173241813457E-16    22.7127454826314
+       60       8.57938279425341E-16    22.7127454826318
+       61       8.58579909609132E-16    22.7127454826315
+       62       8.74404056648904E-16    22.7127454826318
+       63       8.67301065013901E-16    22.7127454826313
+       64       8.63384836444720E-16    22.7127454826317
+       65       8.63971438217499E-16    22.7127454826309
+       66       8.62447462291034E-16    22.7127454826319
+       67       8.63535715652259E-16    22.7127454826319
+       68       8.61325733558301E-16    22.7127454826321
+       69       8.55897709043410E-16    22.7127454826317
+       70       8.60213440084578E-16    22.7127454826326
+       71       8.66523049409848E-16    22.7127454826314
+       72       8.58560541980115E-16    22.7127454826322
+       73       8.67648121676997E-16    22.7127454826316
+       74       8.60096097573596E-16    22.7127454826318
+       75       8.59195042974869E-16    22.7127454826310
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ Zeta is     2.2712745482631E+01
+ Error is    6.2567753977913E-16
+
+
+ CG Benchmark Completed.
+ Class           =                        B
+ Size            =                    75000
+ Iterations      =                       75
+ Time in seconds =                    95.97
+ Mop/s total     =                   570.07
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-FT-W...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_FT.c' (1/1)
+[ClavaMetrics] Code to AST: 208ms
+[ClavaMetrics] AST Processing: 31ms
+[ClavaMetrics] Current memory used (Java):72 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_FT.c' (1/1)
+[ClavaMetrics] Code to AST: 173ms
+[ClavaMetrics] AST Processing: 45ms
+[ClavaMetrics] Current memory used (Java):77 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_FT.c' (1/1)
+[ClavaMetrics] Code to AST: 179ms
+[ClavaMetrics] AST Processing: 47ms
+[ClavaMetrics] Current memory used (Java):78 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 5,
+    "excluded_has_unsafe_calls": 4
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "main",
+      "CalculateChecksum",
+      "verify",
+      "print_results",
+      "wtime"
+    ],
+    "excluded_has_unsafe_calls": [
+      "appft",
+      "elapsed_time",
+      "timer_start",
+      "timer_stop"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "main",
+    "CalculateChecksum",
+    "verify",
+    "print_results",
+    "wtime",
+    "appft",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop"
+  ],
+  "inductionVariableReplacements": 36
+}
+Compiling NAS-FT-W...
+Changes in file 'laraBenchmarks/NAS-FT-W/NAS_FT.c'
+Executing NAS-FT-W...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - FT Benchmark
+
+ Size                :  128x 128x  32
+ Iterations          :              6
+
+ T =    1     Checksum =    5.673612178944E+02    5.293246849175E+02
+ T =    2     Checksum =    5.631436885271E+02    5.282149986629E+02
+ T =    3     Checksum =    5.594024089970E+02    5.270996558037E+02
+ T =    4     Checksum =    5.560698047020E+02    5.260027904925E+02
+ T =    5     Checksum =    5.530898991250E+02    5.249400845633E+02
+ T =    6     Checksum =    5.504159734538E+02    5.239212247086E+02
+ Verification test for FT successful
+
+
+ FT Benchmark Completed.
+ Class           =                        W
+ Size            =            128x 128x  32
+ Iterations      =                        6
+ Time in seconds =                     0.46
+ Mop/s total     =                   804.40
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-FT-A...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_FT.c' (1/1)
+[ClavaMetrics] Code to AST: 150ms
+[ClavaMetrics] AST Processing: 31ms
+[ClavaMetrics] Current memory used (Java):72 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_FT.c' (1/1)
+[ClavaMetrics] Code to AST: 237ms
+[ClavaMetrics] AST Processing: 36ms
+[ClavaMetrics] Current memory used (Java):80 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_FT.c' (1/1)
+[ClavaMetrics] Code to AST: 168ms
+[ClavaMetrics] AST Processing: 36ms
+[ClavaMetrics] Current memory used (Java):79 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 5,
+    "excluded_has_unsafe_calls": 4
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "main",
+      "CalculateChecksum",
+      "verify",
+      "print_results",
+      "wtime"
+    ],
+    "excluded_has_unsafe_calls": [
+      "appft",
+      "elapsed_time",
+      "timer_start",
+      "timer_stop"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "main",
+    "CalculateChecksum",
+    "verify",
+    "print_results",
+    "wtime",
+    "appft",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop"
+  ],
+  "inductionVariableReplacements": 36
+}
+Compiling NAS-FT-A...
+Changes in file 'laraBenchmarks/NAS-FT-A/NAS_FT.c'
+Executing NAS-FT-A...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - FT Benchmark
+
+ Size                :  256x 256x 128
+ Iterations          :              6
+
+ T =    1     Checksum =    5.046735008193E+02    5.114047905510E+02
+ T =    2     Checksum =    5.059412319734E+02    5.098809666433E+02
+ T =    3     Checksum =    5.069376896287E+02    5.098144042213E+02
+ T =    4     Checksum =    5.077892868474E+02    5.101336130759E+02
+ T =    5     Checksum =    5.085233095391E+02    5.104914655194E+02
+ T =    6     Checksum =    5.091487099959E+02    5.107917842803E+02
+ Verification test for FT successful
+
+
+ FT Benchmark Completed.
+ Class           =                        A
+ Size            =            256x 256x 128
+ Iterations      =                        6
+ Time in seconds =                     8.13
+ Mop/s total     =                   878.00
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-FT-B...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_FT.c' (1/1)
+[ClavaMetrics] Code to AST: 216ms
+[ClavaMetrics] AST Processing: 26ms
+[ClavaMetrics] Current memory used (Java):72 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_FT.c' (1/1)
+[ClavaMetrics] Code to AST: 166ms
+[ClavaMetrics] AST Processing: 37ms
+[ClavaMetrics] Current memory used (Java):80 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_FT.c' (1/1)
+[ClavaMetrics] Code to AST: 231ms
+[ClavaMetrics] AST Processing: 36ms
+[ClavaMetrics] Current memory used (Java):79 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 5,
+    "excluded_has_unsafe_calls": 4
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "main",
+      "CalculateChecksum",
+      "verify",
+      "print_results",
+      "wtime"
+    ],
+    "excluded_has_unsafe_calls": [
+      "appft",
+      "elapsed_time",
+      "timer_start",
+      "timer_stop"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "main",
+    "CalculateChecksum",
+    "verify",
+    "print_results",
+    "wtime",
+    "appft",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop"
+  ],
+  "inductionVariableReplacements": 36
+}
+Compiling NAS-FT-B...
+Changes in file 'laraBenchmarks/NAS-FT-B/NAS_FT.c'
+Executing NAS-FT-B...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - FT Benchmark
+
+ Size                :  512x 256x 256
+ Iterations          :             20
+
+ T =    1     Checksum =    5.177643571579E+02    5.077803458597E+02
+ T =    2     Checksum =    5.154521291263E+02    5.088249431599E+02
+ T =    3     Checksum =    5.146409228650E+02    5.096208912659E+02
+ T =    4     Checksum =    5.142378756213E+02    5.101023387619E+02
+ T =    5     Checksum =    5.139626667737E+02    5.103976610618E+02
+ T =    6     Checksum =    5.137423460082E+02    5.105948019802E+02
+ T =    7     Checksum =    5.135547056878E+02    5.107404165783E+02
+ T =    8     Checksum =    5.133910925467E+02    5.108576573661E+02
+ T =    9     Checksum =    5.132470705390E+02    5.109577278523E+02
+ T =   10     Checksum =    5.131197729984E+02    5.110460304483E+02
+ T =   11     Checksum =    5.130070319283E+02    5.111252433800E+02
+ T =   12     Checksum =    5.129070537032E+02    5.111968077719E+02
+ T =   13     Checksum =    5.128182883503E+02    5.112616233064E+02
+ T =   14     Checksum =    5.127393733383E+02    5.113203605551E+02
+ T =   15     Checksum =    5.126691062021E+02    5.113735928093E+02
+ T =   16     Checksum =    5.126064276005E+02    5.114218460548E+02
+ T =   17     Checksum =    5.125504076570E+02    5.114656139760E+02
+ T =   18     Checksum =    5.125002331721E+02    5.115053595966E+02
+ T =   19     Checksum =    5.124551951846E+02    5.115415130407E+02
+ T =   20     Checksum =    5.124146770029E+02    5.115744692211E+02
+ Verification test for FT successful
+
+
+ FT Benchmark Completed.
+ Class           =                        B
+ Size            =            512x 256x 256
+ Iterations      =                       20
+ Time in seconds =                    98.83
+ Mop/s total     =                   931.40
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-LU-W...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_LU.c' (1/1)
+[ClavaMetrics] Code to AST: 727ms
+[ClavaMetrics] AST Processing: 312ms
+[ClavaMetrics] Current memory used (Java):106 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_LU.c' (1/1)
+[ClavaMetrics] Code to AST: 815ms
+[ClavaMetrics] AST Processing: 306ms
+[ClavaMetrics] Current memory used (Java):156 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_LU.c' (1/1)
+[ClavaMetrics] Code to AST: 815ms
+[ClavaMetrics] AST Processing: 288ms
+[ClavaMetrics] Current memory used (Java):168 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 6,
+    "excluded_has_unsafe_calls": 4
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "domain",
+      "read_input",
+      "ssor",
+      "verify",
+      "print_results",
+      "wtime"
+    ],
+    "excluded_has_unsafe_calls": [
+      "elapsed_time",
+      "timer_start",
+      "timer_stop",
+      "main"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "domain",
+    "read_input",
+    "ssor",
+    "verify",
+    "print_results",
+    "wtime",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop",
+    "main"
+  ],
+  "inductionVariableReplacements": 1829
+}
+Compiling NAS-LU-W...
+Changes in file 'laraBenchmarks/NAS-LU-W/NAS_LU.c'
+Executing NAS-LU-W...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - LU Benchmark
+
+ Size:   33x  33x  33
+ Iterations:  300
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  260
+ Time step  280
+ Time step  300
+
+ Verification being performed for class W
+ Accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1   1.2365116381922E+01 1.2365116381920E+01 1.5155995363760E-13
+           2   1.3172284777985E+00 1.3172284777990E+00 3.7759578039427E-13
+           3   2.5501207130948E+00 2.5501207130950E+00 9.4212113683551E-14
+           4   2.3261877502524E+00 2.3261877502520E+00 1.8231769785602E-13
+           5   2.8267994441886E+01 2.8267994441890E+01 1.5282654177332E-13
+ Comparison of RMS-norms of solution error
+           1   4.8678771442163E-01 4.8678771442160E-01 5.1544111762027E-14
+           2   5.0646528809815E-02 5.0646528809820E-02 9.2753270230720E-14
+           3   9.2818181019598E-02 9.2818181019600E-02 1.6446741813840E-14
+           4   8.5701265427329E-02 8.5701265427330E-02 9.5539952249053E-15
+           5   1.0842774177923E+00 1.0842774177920E+00 2.5925880703809E-13
+ Comparison of surface integral
+               1.1613993110230E+01 1.1613993110230E+01 3.1660589279321E-14
+ Verification Successful
+
+
+ LU Benchmark Completed.
+ Class           =                        W
+ Size            =             33x  33x  33
+ Iterations      =                      300
+ Time in seconds =                    18.31
+ Mop/s total     =                   986.41
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-LU-A...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_LU.c' (1/1)
+[ClavaMetrics] Code to AST: 736ms
+[ClavaMetrics] AST Processing: 246ms
+[ClavaMetrics] Current memory used (Java):144 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_LU.c' (1/1)
+[ClavaMetrics] Code to AST: 811ms
+[ClavaMetrics] AST Processing: 259ms
+[ClavaMetrics] Current memory used (Java):195 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_LU.c' (1/1)
+[ClavaMetrics] Code to AST: 809ms
+[ClavaMetrics] AST Processing: 248ms
+[ClavaMetrics] Current memory used (Java):189 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 6,
+    "excluded_has_unsafe_calls": 4
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "domain",
+      "read_input",
+      "ssor",
+      "verify",
+      "print_results",
+      "wtime"
+    ],
+    "excluded_has_unsafe_calls": [
+      "elapsed_time",
+      "timer_start",
+      "timer_stop",
+      "main"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "domain",
+    "read_input",
+    "ssor",
+    "verify",
+    "print_results",
+    "wtime",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop",
+    "main"
+  ],
+  "inductionVariableReplacements": 1829
+}
+Compiling NAS-LU-A...
+Changes in file 'laraBenchmarks/NAS-LU-A/NAS_LU.c'
+Executing NAS-LU-A...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - LU Benchmark
+
+ Size:   64x  64x  64
+ Iterations:  250
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class A
+ Accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1   7.7902107606689E+02 7.7902107606689E+02 1.0215485671699E-15
+           2   6.3402765259693E+01 6.3402765259693E+01 6.7240859244839E-16
+           3   1.9499249727292E+02 1.9499249727292E+02 1.0203057491713E-15
+           4   1.7845301160419E+02 1.7845301160419E+02 1.4334046961393E-15
+           5   1.8384760349464E+03 1.8384760349464E+03 1.2367508257994E-16
+ Comparison of RMS-norms of solution error
+           1   2.9964085685472E+01 2.9964085685472E+01 0.0000000000000E+00
+           2   2.8194576365003E+00 2.8194576365003E+00 0.0000000000000E+00
+           3   7.3473412698775E+00 7.3473412698775E+00 0.0000000000000E+00
+           4   6.7139225687777E+00 6.7139225687777E+00 0.0000000000000E+00
+           5   7.0715315688393E+01 7.0715315688393E+01 2.0095865480997E-16
+ Comparison of surface integral
+               2.6030925604886E+01 2.6030925604886E+01 4.0944149271438E-16
+ Verification Successful
+
+
+ LU Benchmark Completed.
+ Class           =                        A
+ Size            =             64x  64x  64
+ Iterations      =                      250
+ Time in seconds =                   116.44
+ Mop/s total     =                  1024.52
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-LU-B...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_LU.c' (1/1)
+[ClavaMetrics] Code to AST: 725ms
+[ClavaMetrics] AST Processing: 248ms
+[ClavaMetrics] Current memory used (Java):146 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_LU.c' (1/1)
+[ClavaMetrics] Code to AST: 885ms
+[ClavaMetrics] AST Processing: 282ms
+[ClavaMetrics] Current memory used (Java):194 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_LU.c' (1/1)
+[ClavaMetrics] Code to AST: 798ms
+[ClavaMetrics] AST Processing: 261ms
+[ClavaMetrics] Current memory used (Java):188 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 6,
+    "excluded_has_unsafe_calls": 4
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "domain",
+      "read_input",
+      "ssor",
+      "verify",
+      "print_results",
+      "wtime"
+    ],
+    "excluded_has_unsafe_calls": [
+      "elapsed_time",
+      "timer_start",
+      "timer_stop",
+      "main"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "domain",
+    "read_input",
+    "ssor",
+    "verify",
+    "print_results",
+    "wtime",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop",
+    "main"
+  ],
+  "inductionVariableReplacements": 1829
+}
+Compiling NAS-LU-B...
+Changes in file 'laraBenchmarks/NAS-LU-B/NAS_LU.c'
+Executing NAS-LU-B...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - LU Benchmark
+
+ Size:  102x 102x 102
+ Iterations:  250
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class B
+ Accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1   3.5532672969983E+03 3.5532672969983E+03 1.6637407398307E-15
+           2   2.6214750795311E+02 2.6214750795311E+02 2.1683753282513E-16
+           3   8.8333721850952E+02 8.8333721850952E+02 2.5740302874013E-16
+           4   7.7812774739425E+02 7.7812774739425E+02 2.6298549124380E-15
+           5   7.3087969592545E+03 7.3087969592545E+03 7.4663015555903E-16
+ Comparison of RMS-norms of solution error
+           1   1.1401176380213E+02 1.1401176380213E+02 0.0000000000000E+00
+           2   8.1098963655422E+00 8.1098963655422E+00 2.1903570148538E-16
+           3   2.8480597317698E+01 2.8480597317698E+01 0.0000000000000E+00
+           4   2.5905394567833E+01 2.5905394567833E+01 1.3714184779150E-16
+           5   2.6054907504857E+02 2.6054907504857E+02 0.0000000000000E+00
+ Comparison of surface integral
+               4.7887162703308E+01 4.7887162703308E+01 0.0000000000000E+00
+ Verification Successful
+
+
+ LU Benchmark Completed.
+ Class           =                        B
+ Size            =            102x 102x 102
+ Iterations      =                      250
+ Time in seconds =                   481.04
+ Mop/s total     =                  1036.96
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-MG-W...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_MG.c' (1/1)
+[ClavaMetrics] Code to AST: 211ms
+[ClavaMetrics] AST Processing: 59ms
+[ClavaMetrics] Current memory used (Java):115 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_MG.c' (1/1)
+[ClavaMetrics] Code to AST: 308ms
+[ClavaMetrics] AST Processing: 72ms
+[ClavaMetrics] Current memory used (Java):129 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_MG.c' (1/1)
+[ClavaMetrics] Code to AST: 328ms
+[ClavaMetrics] AST Processing: 65ms
+[ClavaMetrics] Current memory used (Java):111 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 6,
+    "excluded_has_unsafe_calls": 8
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "main",
+      "setup",
+      "rep_nrm",
+      "showall",
+      "print_results",
+      "wtime"
+    ],
+    "excluded_has_unsafe_calls": [
+      "mg3P",
+      "psinv",
+      "resid",
+      "rprj3",
+      "interp",
+      "elapsed_time",
+      "timer_start",
+      "timer_stop"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "main",
+    "setup",
+    "rep_nrm",
+    "showall",
+    "print_results",
+    "wtime",
+    "mg3P",
+    "psinv",
+    "resid",
+    "rprj3",
+    "interp",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop"
+  ],
+  "inductionVariableReplacements": 119
+}
+Compiling NAS-MG-W...
+Changes in file 'laraBenchmarks/NAS-MG-W/NAS_MG.c'
+Executing NAS-MG-W...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  128x 128x 128  (class W)
+ Iterations:   4
+
+ Initialization time:           0.429 seconds
+
+  iter   1
+  iter   4
+
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ L2 Norm is  6.4673293753391E-06
+ Error is    1.1263510675927E-14
+
+
+ MG Benchmark Completed.
+ Class           =                        W
+ Size            =            128x 128x 128
+ Iterations      =                        4
+ Time in seconds =                     0.64
+ Mop/s total     =                   758.13
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-MG-A...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_MG.c' (1/1)
+[ClavaMetrics] Code to AST: 274ms
+[ClavaMetrics] AST Processing: 57ms
+[ClavaMetrics] Current memory used (Java):83 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_MG.c' (1/1)
+[ClavaMetrics] Code to AST: 266ms
+[ClavaMetrics] AST Processing: 74ms
+[ClavaMetrics] Current memory used (Java):94 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_MG.c' (1/1)
+[ClavaMetrics] Code to AST: 254ms
+[ClavaMetrics] AST Processing: 67ms
+[ClavaMetrics] Current memory used (Java):93 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 6,
+    "excluded_has_unsafe_calls": 8
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "main",
+      "setup",
+      "rep_nrm",
+      "showall",
+      "print_results",
+      "wtime"
+    ],
+    "excluded_has_unsafe_calls": [
+      "mg3P",
+      "psinv",
+      "resid",
+      "rprj3",
+      "interp",
+      "elapsed_time",
+      "timer_start",
+      "timer_stop"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "main",
+    "setup",
+    "rep_nrm",
+    "showall",
+    "print_results",
+    "wtime",
+    "mg3P",
+    "psinv",
+    "resid",
+    "rprj3",
+    "interp",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop"
+  ],
+  "inductionVariableReplacements": 119
+}
+Compiling NAS-MG-A...
+Changes in file 'laraBenchmarks/NAS-MG-A/NAS_MG.c'
+Executing NAS-MG-A...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class A)
+ Iterations:   4
+
+ Initialization time:           3.310 seconds
+
+  iter   1
+  iter   4
+
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ L2 Norm is  2.4333653090693E-06
+ Error is    1.1330367179302E-13
+
+
+ MG Benchmark Completed.
+ Class           =                        A
+ Size            =            256x 256x 256
+ Iterations      =                        4
+ Time in seconds =                     5.04
+ Mop/s total     =                   771.96
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-MG-B...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_MG.c' (1/1)
+[ClavaMetrics] Code to AST: 273ms
+[ClavaMetrics] AST Processing: 55ms
+[ClavaMetrics] Current memory used (Java):81 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_MG.c' (1/1)
+[ClavaMetrics] Code to AST: 253ms
+[ClavaMetrics] AST Processing: 87ms
+[ClavaMetrics] Current memory used (Java):94 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_MG.c' (1/1)
+[ClavaMetrics] Code to AST: 301ms
+[ClavaMetrics] AST Processing: 65ms
+[ClavaMetrics] Current memory used (Java):93 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 6,
+    "excluded_has_unsafe_calls": 8
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "main",
+      "setup",
+      "rep_nrm",
+      "showall",
+      "print_results",
+      "wtime"
+    ],
+    "excluded_has_unsafe_calls": [
+      "mg3P",
+      "psinv",
+      "resid",
+      "rprj3",
+      "interp",
+      "elapsed_time",
+      "timer_start",
+      "timer_stop"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "main",
+    "setup",
+    "rep_nrm",
+    "showall",
+    "print_results",
+    "wtime",
+    "mg3P",
+    "psinv",
+    "resid",
+    "rprj3",
+    "interp",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop"
+  ],
+  "inductionVariableReplacements": 119
+}
+Compiling NAS-MG-B...
+Changes in file 'laraBenchmarks/NAS-MG-B/NAS_MG.c'
+Executing NAS-MG-B...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class B)
+ Iterations:  20
+
+ Initialization time:           3.322 seconds
+
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ L2 Norm is  1.8005644013551E-06
+ Error is    6.6330115975290E-14
+
+
+ MG Benchmark Completed.
+ Class           =                        B
+ Size            =            256x 256x 256
+ Iterations      =                       20
+ Time in seconds =                    22.94
+ Mop/s total     =                   848.20
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-SP-W...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_SP.c' (1/1)
+[ClavaMetrics] Code to AST: 704ms
+[ClavaMetrics] AST Processing: 242ms
+[ClavaMetrics] Current memory used (Java):105 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_SP.c' (1/1)
+[ClavaMetrics] Code to AST: 795ms
+[ClavaMetrics] AST Processing: 236ms
+[ClavaMetrics] Current memory used (Java):153 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_SP.c' (1/1)
+[ClavaMetrics] Code to AST: 667ms
+[ClavaMetrics] AST Processing: 213ms
+[ClavaMetrics] Current memory used (Java):160 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 4,
+    "excluded_has_unsafe_calls": 3
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "main",
+      "verify",
+      "print_results",
+      "wtime"
+    ],
+    "excluded_has_unsafe_calls": [
+      "elapsed_time",
+      "timer_start",
+      "timer_stop"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "main",
+    "verify",
+    "print_results",
+    "wtime",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop"
+  ],
+  "inductionVariableReplacements": 2580
+}
+Compiling NAS-SP-W...
+Changes in file 'laraBenchmarks/NAS-SP-W/NAS_SP.c'
+Executing NAS-SP-W...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - SP Benchmark
+
+ Size:   36x  36x  36
+ Iterations:  400    dt:   0.001500
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  260
+ Time step  280
+ Time step  300
+ Time step  320
+ Time step  340
+ Time step  360
+ Time step  380
+ Time step  400
+ Verification being performed for class W
+ accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1 1.8932537335841E-03 1.8932537335840E-03 6.2878734332958E-14
+           2 1.7170754477760E-04 1.7170754477750E-04 5.5770500363785E-13
+           3 2.7781533509382E-04 2.7781533509360E-04 7.7661743277031E-13
+           4 2.8874754099842E-04 2.8874754099840E-04 7.9227223062554E-14
+           5 3.1436111612418E-03 3.1436111612420E-03 7.9048942502004E-14
+ Comparison of RMS-norms of solution error
+           1 7.5420885995342E-05 7.5420885995340E-05 2.6774102685283E-14
+           2 6.5128522530845E-06 6.5128522530860E-06 2.2408580932074E-13
+           3 1.0490922856887E-05 1.0490922856880E-05 6.6707060052640E-13
+           4 1.1288386715350E-05 1.1288386715350E-05 3.6617462590825E-14
+           5 1.2128456397729E-04 1.2128456397730E-04 5.0060221736504E-14
+ Verification Successful
+
+
+ SP Benchmark Completed.
+ Class           =                        W
+ Size            =             36x  36x  36
+ Iterations      =                      400
+ Time in seconds =                  19.4273
+ Mop/s total     =                   729.61
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-SP-A...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_SP.c' (1/1)
+[ClavaMetrics] Code to AST: 616ms
+[ClavaMetrics] AST Processing: 254ms
+[ClavaMetrics] Current memory used (Java):133 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_SP.c' (1/1)
+[ClavaMetrics] Code to AST: 706ms
+[ClavaMetrics] AST Processing: 227ms
+[ClavaMetrics] Current memory used (Java):182 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_SP.c' (1/1)
+[ClavaMetrics] Code to AST: 726ms
+[ClavaMetrics] AST Processing: 217ms
+[ClavaMetrics] Current memory used (Java):175 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 4,
+    "excluded_has_unsafe_calls": 3
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "main",
+      "verify",
+      "print_results",
+      "wtime"
+    ],
+    "excluded_has_unsafe_calls": [
+      "elapsed_time",
+      "timer_start",
+      "timer_stop"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "main",
+    "verify",
+    "print_results",
+    "wtime",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop"
+  ],
+  "inductionVariableReplacements": 2580
+}
+Compiling NAS-SP-A...
+Changes in file 'laraBenchmarks/NAS-SP-A/NAS_SP.c'
+Executing NAS-SP-A...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - SP Benchmark
+
+ Size:   64x  64x  64
+ Iterations:  400    dt:   0.001500
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  260
+ Time step  280
+ Time step  300
+ Time step  320
+ Time step  340
+ Time step  360
+ Time step  380
+ Time step  400
+ Verification being performed for class A
+ accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1 2.4799822399301E+00 2.4799822399300E+00 3.7783667064086E-14
+           2 1.1276337964370E+00 1.1276337964369E+00 9.3730103051439E-14
+           3 1.5028977888771E+00 1.5028977888770E+00 3.7822544740904E-14
+           4 1.4217816211696E+00 1.4217816211695E+00 7.7305880032040E-14
+           5 2.1292113035139E+00 2.1292113035138E+00 4.0045404676605E-14
+ Comparison of RMS-norms of solution error
+           1 1.0900140297816E-04 1.0900140297821E-04 4.2484760770966E-13
+           2 3.7343951769287E-05 3.7343951769282E-05 1.2320825064020E-13
+           3 5.0092785406541E-05 5.0092785406542E-05 1.6097634803929E-14
+           4 4.7671093939539E-05 4.7671093939528E-05 2.3212470091345E-13
+           5 1.3621613399212E-04 1.3621613399213E-04 5.1338294573355E-14
+ Verification Successful
+
+
+ SP Benchmark Completed.
+ Class           =                        A
+ Size            =             64x  64x  64
+ Iterations      =                      400
+ Time in seconds =                 110.0155
+ Mop/s total     =                   772.71
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+Parsing NAS-SP-B...
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_SP.c' (1/1)
+[ClavaMetrics] Code to AST: 685ms
+[ClavaMetrics] AST Processing: 214ms
+[ClavaMetrics] Current memory used (Java):135 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_7f175745-6d8c-415d-8aee-248d62f9f737_joaonmatos/NAS_SP.c' (1/1)
+[ClavaMetrics] Code to AST: 726ms
+[ClavaMetrics] AST Processing: 231ms
+[ClavaMetrics] Current memory used (Java):181 MiB
+--- AST parsing report ---
+Rebuilding tree...
+Found 1 source files
+Parsing '/tmp/__clava_woven_5cde989f-a267-46ca-a4c3-f7a695209787_joaonmatos/NAS_SP.c' (1/1)
+[ClavaMetrics] Code to AST: 708ms
+[ClavaMetrics] AST Processing: 218ms
+[ClavaMetrics] Current memory used (Java):174 MiB
+--- AST parsing report ---
+Parallelizing 0 for loops...
+Parallelization finished
+{
+  "name": "default",
+  "inlinedCalls": 0,
+  "inlineAnalysis": {
+    "excluded_is_unsafe": 4,
+    "excluded_has_unsafe_calls": 3
+  },
+  "inlineAnalysisFunctions": {
+    "excluded_is_unsafe": [
+      "main",
+      "verify",
+      "print_results",
+      "wtime"
+    ],
+    "excluded_has_unsafe_calls": [
+      "elapsed_time",
+      "timer_start",
+      "timer_stop"
+    ]
+  },
+  "inlineExcludedFunctions": [
+    "main",
+    "verify",
+    "print_results",
+    "wtime",
+    "elapsed_time",
+    "timer_start",
+    "timer_stop"
+  ],
+  "inductionVariableReplacements": 2580
+}
+Compiling NAS-SP-B...
+Changes in file 'laraBenchmarks/NAS-SP-B/NAS_SP.c'
+Executing NAS-SP-B...
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - SP Benchmark
+
+ Size:  102x 102x 102
+ Iterations:  400    dt:   0.001000
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  260
+ Time step  280
+ Time step  300
+ Time step  320
+ Time step  340
+ Time step  360
+ Time step  380
+ Time step  400
+ Verification being performed for class B
+ accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1 6.9032935799984E+01 6.9032935799980E+01 5.1669894843394E-14
+           2 3.0951344880842E+01 3.0951344880840E+01 7.6675593470184E-14
+           3 4.1033366470174E+01 4.1033366470170E+01 1.0407047262434E-13
+           4 3.8647690096039E+01 3.8647690096040E+01 3.8241066586602E-14
+           5 5.6434822725957E+01 5.6434822725960E+01 5.6405447956532E-14
+ Comparison of RMS-norms of solution error
+           1 9.8100061901884E-03 9.8100061901880E-03 4.0494538769611E-14
+           2 1.0228279056704E-03 1.0228279056700E-03 3.9834968733392E-13
+           3 1.7205979116917E-03 1.7205979116920E-03 1.5110542631448E-13
+           4 1.6944794282311E-03 1.6944794282310E-03 8.5227195425935E-14
+           5 1.8474562639811E-02 1.8474562639810E-02 7.7559702986916E-14
+ Verification Successful
+
+
+ SP Benchmark Completed.
+ Class           =                        B
+ Size            =            102x 102x 102
+ Iterations      =                      400
+ Time in seconds =                 458.7349
+ Mop/s total     =                   773.89
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
